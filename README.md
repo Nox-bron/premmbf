@@ -16,7 +16,7 @@ By Nox-bron
 ```
 ## ⇨  Install Script On Termux
 ```
-$ pkg update && upgrade  
+##$ pkg update && upgrade  
 $ termux-setup-storage  
 $ pkg install python  
 $ pkg install git  
