@@ -14,7 +14,7 @@
 [✯] Crack With TTL/DOB  
 ```
 ## ⇨  Install Script On Termux
-```
+
 $ pkg update && upgrade   
 $ pkg install python  
 $ pkg install git  
@@ -23,7 +23,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures   
 $ git clone https://github.com/Nox-bron/premmbf
-
+```
 ## ⇨  Run Script
 ```
 $ cd premium  
