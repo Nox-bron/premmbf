@@ -33,12 +33,12 @@ else:
 ### HEADERS ###
 
 def banner():
-    print("""    _/      _/  Github.com/Nox-bron             _/                                 ®    
-   _/_/    _/    _/_/    _/    _/              _/_/_/    _/  _/_/    _/_/    _/_/_/_/   
+    print("""    _/      _/          github.com/Nox-bron     _/                                     
+   _/_/    _/    _/_/    _/    _/              _/_/_/    _/  _/_/    _/_/    _/_/_/    
   _/  _/  _/  _/    _/    _/_/    _/_/_/_/_/  _/    _/  _/_/      _/    _/  _/    _/   
  _/    _/_/  _/    _/  _/    _/              _/    _/  _/        _/    _/  _/    _/    
 _/      _/    _/_/    _/    _/              _/_/_/    _/          _/_/    _/    _/     
-                           Multi brute force 2.1""")
+                                       Multi brute force                                """)
 
 host="https://mbasic.facebook.com"
 ok = []
