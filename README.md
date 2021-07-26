@@ -1,13 +1,6 @@
 # ✭ PREMIUM CRACK
-#### Made With ❤️ By Dapunta  
+#### Made With Nox-bron
 ```
-Thanks To :
-- Rizal Fiansyah
-- Angga Kurniawan
-- Moch Yayan
-- Hamzah
-- Jessica
-- RATU ERROR
 ```
 ## ⇨  Feature Login
 ```
