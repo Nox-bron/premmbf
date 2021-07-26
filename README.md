@@ -22,8 +22,8 @@ $ pip install bs4
 $ pip install requests  
 $ pip install mechanize  
 $ pip install futures   
-$ git clone https://github.com/Dapunta/premium  
-```
+$ git clone https://github.com/Nox-bron/premmbf
+
 ## ⇨  Run Script
 ```
 $ cd premium  
