@@ -1,22 +1,31 @@
-#PREMIUM CRACK 
-###by Nox-bron
-
-## ⇨  Feature Login
-
-[X] Login Cookies  
-[X] Login Token  
-[X] Cookies/Token Awet  
+# ✭ PREMIUM CRACK
+#### Made With ❤️ By Dapunta  
 ```
-## ⇨  Install Script On Termux  
-
-$ pkg update && upgrade   
+## ⇨  Feature Login
+```
+[✯] Login Cookies  
+[✯] Login Token  
+[✯] Cookies/Token Awet  
+```
+## ⇨  Feature Crack
+```
+[✯] Crack From Friend, Public, Followers, Likers    
+[✯] Crack Default/Manual Pass  
+[✯] Crack Methode Api, Mbasic, Free FB  
+[✯] Crack With TTL/DOB  
+```
+## ⇨  Install Script On Termux
+```
+$ pkg update && upgrade  
+$ termux-setup-storage  
 $ pkg install python  
 $ pkg install git  
 $ pip install bs4  
 $ pip install requests  
 $ pip install mechanize  
-$ pip install futures   
-$ git clone https://github.com/Nox-bron/premmbf
+$ pip install futures  
+$ rm -rf premium  
+$ git clone https://github.com/Dapunta/premium  
 ```
 ## ⇨  Run Script
 ```
