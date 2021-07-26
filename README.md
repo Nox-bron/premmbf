@@ -1,17 +1,18 @@
 #PREMIUM CRACK 
-```
+###by Nox-bron
+
 ## ⇨  Feature Login
-```
-[✯] Login Cookies  
-[✯] Login Token  
-[✯] Cookies/Token Awet  
+
+[X] Login Cookies  
+[X] Login Token  
+[X] Cookies/Token Awet  
 ```
 ## ⇨  Feature Crack
-```
-[✯] Crack From Friend, Public, Followers, Likers    
-[✯] Crack Default/Manual Pass  
-[✯] Crack Methode Api, Mbasic, Free FB  
-[✯] Crack With TTL/DOB  
+
+[X] Crack From Friend, Public, Followers, Likers    
+[X] Crack Default/Manual Pass  
+[X] Crack Methode Api, Mbasic, Free FB  
+[X] Crack With TTL/DOB  
 ```
 ## ⇨  Install Script On Termux
 
