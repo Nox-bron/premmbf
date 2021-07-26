@@ -1,4 +1,4 @@
-# PREMIUM CRACK
+# PREMIUM MULTI BRUTE FORCE[MBF]
 #### Made With Nox-bron  
 
 ## ⇨  Fiture Login
@@ -27,6 +27,6 @@ $ git clone https://github.com/Nox-bron/premmbf
 ```
 ## ⇨  Run Script
 ```
-$ cd premium  
-$ python premium.py  
+$ cd premmbf  
+$ python premmbf.py  
 ```
