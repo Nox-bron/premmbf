@@ -28,7 +28,7 @@ $ rm -rf premium
 $ git clone https://github.com/Dapunta/premium  
 ```
 ## ⇨  Run Script
-```
+
 $ cd premium  
 $ python premium.py  
 ```
