@@ -8,14 +8,14 @@
 [X] Cookies/Token Awet  
 ```
 ## ⇨  Feature Crack
-```
+
 [X] Crack From Friend, Public, Followers, Likers    
 [X] Crack Default/Manual Pass  
 [X] Crack Methode Api, Mbasic, Free FB  
 [X] Crack With TTL/DOB  
-```
-## ⇨  Install Script On Termux
 
+## ⇨  Install Script On Termux
+```
 $ pkg update && upgrade   
 $ pkg install python  
 $ pkg install git  
