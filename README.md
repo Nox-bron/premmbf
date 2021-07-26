@@ -6,7 +6,7 @@
 [✯] Login Cookies  
 [✯] Login Token  
 [✯] Cookies/Token Awet  
-
+```
 ## ⇨  Feature Crack
 ```
 [✯] Crack From Friend, Public, Followers, Likers    
@@ -15,7 +15,7 @@
 [✯] Crack With TTL/DOB  
 ```
 ## ⇨  Install Script On Termux
-```
+
 $ pkg update && upgrade  
 $ termux-setup-storage  
 $ pkg install python  
