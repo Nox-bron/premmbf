@@ -26,9 +26,9 @@ $ pip install mechanize
 $ pip install futures  
 $ rm -rf premium  
 $ git clone https://github.com/Dapunta/premium  
-```
-## ⇨  Run Script
 
+## ⇨  Run Script
+```
 $ cd premium  
 $ python premium.py  
 ```
