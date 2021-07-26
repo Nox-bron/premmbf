@@ -15,7 +15,7 @@
 [✯] Crack With TTL/DOB  
 ```
 ## ⇨  Install Script On Termux
-
+```
 $ pkg update && upgrade  
 $ termux-setup-storage  
 $ pkg install python  
@@ -26,7 +26,7 @@ $ pip install mechanize
 $ pip install futures  
 $ rm -rf premium  
 $ git clone https://github.com/Dapunta/premium  
-
+```
 ## ⇨  Run Script
 ```
 $ cd premium  
