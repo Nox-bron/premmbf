@@ -21,12 +21,10 @@ Thanks To :
 [✯] Crack Default/Manual Pass  
 [✯] Crack Methode Api, Mbasic, Free FB  
 [✯] Crack With TTL/DOB  
-[✯] Crack Default 4 Country + 1 None
 ```
 ## ⇨  Install Script On Termux
 ```
 $ pkg update && upgrade  
-$ termux-setup-storage  
 $ pkg install python  
 $ pkg install git  
 $ pip install bs4  
