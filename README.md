@@ -1,4 +1,4 @@
-# PREMIUM MULTI BRUTE FORCE[MBF]
+# PREMIUM MBF
 #### Made With Nox-bron  
 
 ## ⇨  Fiture Login
